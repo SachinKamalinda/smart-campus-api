@@ -1,8 +1,12 @@
-D:\2nd sem\CSA\cw\New folder\smart-campus-api\src\main\java\com\smartcampus\exception\ExceptionMappers.java
+D:\2nd sem\CSA\cw\New folder\smart-campus-api\src\main\java\com\smartcampus\exception\GlobalExceptionMapper.java
 D:\2nd sem\CSA\cw\New folder\smart-campus-api\src\main\java\com\smartcampus\exception\LinkedResourceNotFoundException.java
+D:\2nd sem\CSA\cw\New folder\smart-campus-api\src\main\java\com\smartcampus\exception\LinkedResourceNotFoundExceptionMapper.java
 D:\2nd sem\CSA\cw\New folder\smart-campus-api\src\main\java\com\smartcampus\exception\ResourceNotFoundException.java
+D:\2nd sem\CSA\cw\New folder\smart-campus-api\src\main\java\com\smartcampus\exception\ResourceNotFoundExceptionMapper.java
 D:\2nd sem\CSA\cw\New folder\smart-campus-api\src\main\java\com\smartcampus\exception\RoomNotEmptyException.java
+D:\2nd sem\CSA\cw\New folder\smart-campus-api\src\main\java\com\smartcampus\exception\RoomNotEmptyExceptionMapper.java
 D:\2nd sem\CSA\cw\New folder\smart-campus-api\src\main\java\com\smartcampus\exception\SensorUnavailableException.java
+D:\2nd sem\CSA\cw\New folder\smart-campus-api\src\main\java\com\smartcampus\exception\SensorUnavailableExceptionMapper.java
 D:\2nd sem\CSA\cw\New folder\smart-campus-api\src\main\java\com\smartcampus\filter\LoggingFilter.java
 D:\2nd sem\CSA\cw\New folder\smart-campus-api\src\main\java\com\smartcampus\model\Room.java
 D:\2nd sem\CSA\cw\New folder\smart-campus-api\src\main\java\com\smartcampus\model\Sensor.java
